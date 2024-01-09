@@ -2,7 +2,7 @@
   🎓<br>Python Challenges
 </h1>
 
-##  👩🏻‍💻 Developer by<br>
+##  💻 Developer by<br>
 <table>
   <tr>
     <td align="center">
