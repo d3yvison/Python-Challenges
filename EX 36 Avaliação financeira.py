@@ -7,6 +7,7 @@ preco = float(input('Qual é o valor do imóvel: R$'))
 salario = float(input('Qual é o valor do seu salário: R$'))
 prazo = float(input('Em quantas parcelas deseja pagar: '))
 parcela = preco / prazo
+# Podemos também utilizar parcela = preco / (anos * 12) para informar em "anos" ao invés de meses
 if parcela <= salario * 0.3 :
     print('\33[1;32m Parabéns, o seu financiamento foi aprovado!!!')
 else:
